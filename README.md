@@ -9,3 +9,5 @@ git switch <branchname>
 git branch
 
 git branch -a
+
+test um 10.55
